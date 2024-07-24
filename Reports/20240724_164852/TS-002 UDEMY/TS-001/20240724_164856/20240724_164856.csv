@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-001,Edge Chromium 126,,,24-07-2024 16:49:15,24-07-2024 16:50:05,"49,247s",PASSED
+,,,,,,,
+Test Cases/TC UDEMY/TC - 003 Record Mode,Edge Chromium 126,,,24-07-2024 16:49:16,24-07-2024 16:49:43,"26,806s",PASSED
+"openBrowser("""")",Edge Chromium 126,,,24-07-2024 16:49:18,24-07-2024 16:49:24,"6,403s",PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Edge Chromium 126,,,24-07-2024 16:49:24,24-07-2024 16:49:27,"2,831s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment""))",Edge Chromium 126,,,24-07-2024 16:49:27,24-07-2024 16:49:29,"1,982s",PASSED
+"setText(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Edge Chromium 126,,,24-07-2024 16:49:29,24-07-2024 16:49:32,"3,411s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username""))",Edge Chromium 126,,,24-07-2024 16:49:32,24-07-2024 16:49:34,"1,282s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Edge Chromium 126,,,24-07-2024 16:49:34,24-07-2024 16:49:35,"1,146s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login""))",Edge Chromium 126,,,24-07-2024 16:49:35,24-07-2024 16:49:36,"1,199s",PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Edge Chromium 126,,,24-07-2024 16:49:36,24-07-2024 16:49:37,"1,580s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f""))",Edge Chromium 126,,,24-07-2024 16:49:37,24-07-2024 16:49:38,"0,590s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs""))",Edge Chromium 126,,,24-07-2024 16:49:38,24-07-2024 16:49:38,"0,379s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34""))",Edge Chromium 126,,,24-07-2024 16:49:38,24-07-2024 16:49:39,"0,407s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31""))",Edge Chromium 126,,,24-07-2024 16:49:39,24-07-2024 16:49:39,"0,615s",PASSED
+"setText(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment""), ""This is a sample comment."")",Edge Chromium 126,,,24-07-2024 16:49:39,24-07-2024 16:49:40,"0,894s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment""))",Edge Chromium 126,,,24-07-2024 16:49:40,24-07-2024 16:49:41,"0,672s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Edge Chromium 126,,,24-07-2024 16:49:41,24-07-2024 16:49:41,"0,424s",PASSED
+"click(findTestObject(""Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage""))",Edge Chromium 126,,,24-07-2024 16:49:41,24-07-2024 16:49:42,"0,785s",PASSED
+closeBrowser(),Edge Chromium 126,,,24-07-2024 16:49:42,24-07-2024 16:49:43,"0,760s",PASSED
+,,,,,,,
+Test Cases/TC UDEMY/TC - 004 Manual Mode,Edge Chromium 126,,,24-07-2024 16:49:43,24-07-2024 16:49:56,"12,588s",PASSED
+"openBrowser("""")",Edge Chromium 126,,,24-07-2024 16:49:43,24-07-2024 16:49:46,"3,230s",PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Edge Chromium 126,,,24-07-2024 16:49:46,24-07-2024 16:49:50,"3,246s",PASSED
+"setText(findTestObject(""Udemy Orange HRM/Page_OrangeHRM/input_Username_username""), ""Admin"")",Edge Chromium 126,,,24-07-2024 16:49:50,24-07-2024 16:49:51,"1,704s",PASSED
+"setEncryptedText(findTestObject(""Udemy Orange HRM/Page_OrangeHRM/input_Password_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Edge Chromium 126,,,24-07-2024 16:49:51,24-07-2024 16:49:52,"0,609s",PASSED
+"click(findTestObject(""Udemy Orange HRM/Page_OrangeHRM/button_Login""))",Edge Chromium 126,,,24-07-2024 16:49:52,24-07-2024 16:49:54,"1,684s",PASSED
+"verifyTextPresent(""Dashboard"", false)",Edge Chromium 126,,,24-07-2024 16:49:54,24-07-2024 16:49:55,"1,477s",PASSED
+closeBrowser(),Edge Chromium 126,,,24-07-2024 16:49:55,24-07-2024 16:49:56,"0,444s",PASSED
+,,,,,,,
+Test Cases/TC UDEMY/TC - 005 Script Mode,Edge Chromium 126,,,24-07-2024 16:49:56,24-07-2024 16:50:05,"8,883s",PASSED
+"openBrowser("""")",Edge Chromium 126,,,24-07-2024 16:49:56,24-07-2024 16:49:57,"1,137s",PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Edge Chromium 126,,,24-07-2024 16:49:57,24-07-2024 16:50:00,"2,769s",PASSED
+"setText(findTestObject(""Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username""), ""Admin"")",Edge Chromium 126,,,24-07-2024 16:50:00,24-07-2024 16:50:01,"1,347s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Edge Chromium 126,,,24-07-2024 16:50:01,24-07-2024 16:50:01,"0,397s",PASSED
+"click(findTestObject(""Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login""))",Edge Chromium 126,,,24-07-2024 16:50:01,24-07-2024 16:50:02,"0,330s",PASSED
+"verifyTextPresent(""Dashboard"", false)",Edge Chromium 126,,,24-07-2024 16:50:02,24-07-2024 16:50:04,"2,390s",PASSED
+closeBrowser(),Edge Chromium 126,,,24-07-2024 16:50:04,24-07-2024 16:50:05,"0,351s",PASSED

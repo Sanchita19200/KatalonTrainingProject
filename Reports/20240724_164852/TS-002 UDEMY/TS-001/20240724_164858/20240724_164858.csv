@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-001,,,,24-07-2024 16:49:18,24-07-2024 16:49:36,"17,322s",FAILED
+,,,,,,,
+Test Cases/TC UDEMY/TC - 003 Record Mode,,,,24-07-2024 16:49:28,24-07-2024 16:49:28,"0,610s",FAILED
+"openBrowser("""")",,,,24-07-2024 16:49:28,24-07-2024 16:49:28,"0,530s",FAILED
+,,,,,,,
+Test Cases/TC UDEMY/TC - 004 Manual Mode,,,,24-07-2024 16:49:32,24-07-2024 16:49:33,"0,931s",FAILED
+"openBrowser("""")",,,,24-07-2024 16:49:32,24-07-2024 16:49:33,"0,868s",FAILED
+,,,,,,,
+Test Cases/TC UDEMY/TC - 005 Script Mode,,,,24-07-2024 16:49:35,24-07-2024 16:49:36,"0,325s",FAILED
+"openBrowser("""")",,,,24-07-2024 16:49:35,24-07-2024 16:49:36,"0,283s",FAILED

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creating a account.</description>
+   <name>TC - 001 CREATE ACCOUNT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de9757c5-b26a-422c-9730-251676eb9b64</testCaseGuid>
+</TestCaseEntity>

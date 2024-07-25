@@ -31,5 +31,11 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC UDEMY/TC - 005 Script Mode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>63dcab81-25c7-4e1f-aa12-5d16f739adcb</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

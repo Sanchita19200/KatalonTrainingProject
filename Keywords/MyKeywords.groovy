@@ -41,4 +41,11 @@ public class MyKeywords {
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl(url)
 	}
-}
+
+	@Keyword
+	def closeBrowser() {
+		WebUI.closeBrowser()
+	}
+	
+	}
+

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - 004 Manual Mode</name>
+   <name>TC - 001 Record</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>67c13ac0-0179-4d70-861e-fdefc8d69852</testCaseGuid>
+   <testCaseGuid>df8ec901-ace8-41a3-9f11-f393861a8a89</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - 005 Script Mode</name>
+   <name>TC - 006 KEYWORDDEMO</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>50c51ace-0b0d-4ed1-bcb8-d1a42591b923</testCaseGuid>
+   <testCaseGuid>d2681c74-dfd4-4fc0-9545-64bf7f04db14</testCaseGuid>
 </TestCaseEntity>

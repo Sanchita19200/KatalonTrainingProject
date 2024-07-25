@@ -31,4 +31,14 @@ public class MyKeywords {
 		println" Hello " + user
 	}
 	
+	@Keyword
+	def customMessage(String message) {
+		println (message)
+	}
+	
+	@Keyword
+	def openBrowserAndNavigate(String url) {
+		WebUI.openBrowser('')
+		WebUI.navigateToUrl(url)
+	}
 }

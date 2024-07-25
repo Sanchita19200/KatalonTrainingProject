@@ -21,3 +21,7 @@ CustomKeywords.'MyKeywords.hello'()
 
 CustomKeywords.'MyKeywords.helloUser'('Sanchita')
 
+CustomKeywords.'MyKeywords.openBrowserAndNavigate'('https://parabank.parasoft.com/parabank/index.htm')
+
+CustomKeywords.'MyKeywords.customMessage'('This is a custom message')
+

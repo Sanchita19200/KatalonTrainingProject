@@ -6,17 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'Admin'</initValue>
       <name>USERNAME</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'hUKwJTbofgPU9eVlw/CnDQ=='</initValue>
       <name>PASSWORD</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

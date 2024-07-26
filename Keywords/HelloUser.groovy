@@ -18,12 +18,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class MyKeywords {
-
+public class HelloUser {
 	@Keyword
-	def hello() {
-
-		println "Hello World..."
+	def helloUser(String user) {
+		println" Hello " + user
 	}
-}
+	
+	}
 

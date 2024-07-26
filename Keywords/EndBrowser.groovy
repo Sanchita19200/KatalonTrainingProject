@@ -18,12 +18,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class MyKeywords {
-
+public class EndBrowser {
+	
+	
 	@Keyword
-	def hello() {
-
-		println "Hello World..."
+	def closeBrowser() {
+		WebUI.closeBrowser()
 	}
 }
-

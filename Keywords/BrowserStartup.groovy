@@ -18,12 +18,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class MyKeywords {
-
+public class BrowserStartup {
+	
+	
 	@Keyword
-	def hello() {
-
-		println "Hello World..."
+	def openBrowserAndNavigate(String url) {
+		WebUI.openBrowser('')
+		WebUI.navigateToUrl(url)
 	}
-}
 
+}

@@ -135,3 +135,11 @@ WebUI.doubleClick(findTestObject('Object Repository/Luma/Page_My Account/p_Sanch
 
 WebUI.verifyElementText(findTestObject('Object Repository/Luma/Page_My Account/p_Sanchita Singhuser1920gmail.com'), 'Sanchita Singh\nuser1920@gmail.com')
 
+
+/*
+*  Automates the process of creating a new customer account on a website.
+*
+*  1. Opens a browser and navigates to a specific URL.
+*  2. Fills out the necessary information to create a new customer account.
+*  3. Verifies the elements and texts on the page.
+*/

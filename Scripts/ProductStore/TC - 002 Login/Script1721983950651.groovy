@@ -41,3 +41,49 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/ProductStore/PageSt
 
 WebUI.closeBrowser()
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+// Open a browser
+WebUI.openBrowser('')
+
+// Navigate to a specific URL
+WebUI.navigateToUrl('https://www.demoblaze.com/index.html')
+
+// Click on the 'Log in' link
+WebUI.click(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/a_Log in'))
+
+// Set text in the username field
+WebUI.setText(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/input_Username_loginusername'), 'user1920')
+
+// Set encrypted text in the password field
+WebUI.setEncryptedText(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/input_Password_loginpassword'), 'b5pCQTWVtVj6IgmQbLgxsg==')
+
+// Verify the element text is 'Log in'
+WebUI.verifyElementText(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/h5_Log in'), 'Log in')
+
+// Verify the presence of the 'Log in' button
+WebUI.verifyElementPresent(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/button_Log in'), 0)
+
+// Click on the 'Log in' button
+WebUI.click(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/button_Log in'))
+
+// Right click on the 'Welcome user1920' link
+WebUI.rightClick(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/a_Welcome user1920'))
+
+// Verify the presence of the 'Welcome user1920' link
+WebUI.verifyElementPresent(findTestObject('Object Repository/ProductStore/PageStoreLogin/Page_STORE/a_Welcome user1920'), 0)
+
+// Close the browser
+WebUI.closeBrowser()
+/*
+*  The code opens a browser, navigates to a specific URL, performs login actions, and closes the browser.
+*
+*  1. Import necessary libraries for web UI automation.
+*  2. Open a browser and navigate to a specific URL.
+*  3. Perform login actions such as clicking on 'Log in' link, setting username and password, verifying elements, and right-clicking on a link.
+*  4. Close the browser.
+*
+*/

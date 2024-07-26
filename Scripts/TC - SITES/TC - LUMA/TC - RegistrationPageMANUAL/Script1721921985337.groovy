@@ -30,3 +30,41 @@ WebUI.click(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_A
 
 WebUI.click(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_submit'))
 
+
+// Importing necessary libraries for the script
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+// Opening the browser and navigating to the specified URL
+WebUI.openBrowser('http://www.theTestingWorld.com/testings')
+
+// Entering text into the username field on the registration page
+WebUI.setText(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_Address type HomeOffice_fld_username'), 'Testing99')
+
+// Entering email into the email field on the registration page
+WebUI.setText(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_Address type HomeOffice_fld_email'), 'testing99@gmail.com')
+
+// Clicking on the address type dropdown on the registration page
+WebUI.click(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_Address type HomeOffice_add_type'))
+
+// Clicking on the terms checkbox on the registration page
+WebUI.click(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_Address type HomeOffice_terms'))
+
+// Clicking on the submit button on the registration page
+WebUI.click(findTestObject('RegistrationPageYT/Page_Login  Sign Up Forms/input_submit'))
+/*
+*  Importing necessary libraries and performing registration on a website.
+*
+*  1. Importing necessary libraries for the script.
+*  2. Opening the browser and navigating to the specified URL.
+*  3. Entering text into the username field, email field, clicking on dropdown and checkboxes, and submitting the form on the registration page.
+*
+*/
+/*
+*  Importing necessary libraries for the script and performing registration on a website.
+*
+*  1. Importing necessary libraries for the script.
+*  2. Opening the browser and navigating to the specified URL.
+*  3. Entering text into the username field, email field, clicking on dropdown and checkboxes, and submitting the form on the registration page.
+*
+*/

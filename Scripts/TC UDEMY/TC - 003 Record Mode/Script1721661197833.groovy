@@ -56,3 +56,63 @@ WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA He
 
 WebUI.closeBrowser()
 
+
+/*
+*  Automates a series of actions on a healthcare website using Katalon Studio.
+*
+*  1. Imports necessary classes and packages for Katalon Studio.
+*  2. Opens a browser and navigates to a specific URL.
+*  3. Performs a series of UI interactions like clicking buttons, setting text, selecting options, and verifying element text.
+*  4. Closes the browser after completing the actions.
+*
+*/
+// Open the browser
+WebUI.openBrowser('')
+
+// Navigate to the specified URL
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+// Click on the "Make Appointment" link
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment'))
+
+// Set text in the username field
+WebUI.setText(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+
+// Click on the username field
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username'))
+
+// Set encrypted text in the password field
+WebUI.setEncryptedText(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+// Click on the login button
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login'))
+
+// Select an option by value in the dropdown
+WebUI.selectOptionByValue(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 'Hongkong CURA Healthcare Center', true)
+
+// Click on the checkbox for hospital readmission
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
+
+// Click on the checkbox for Medicaid programs
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs'))
+
+// Click on the calendar icon for visit date
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34'))
+
+// Click on the date 31 in the calendar
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31'))
+
+// Set text in the comment textarea
+WebUI.setText(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment'), 'This is a sample comment.')
+
+// Click on the "Book Appointment" button
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment'))
+
+// Verify the text of the element for appointment confirmation
+WebUI.verifyElementText(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation'), 'Appointment Confirmation')
+
+// Click on the "Go to Homepage" link
+WebUI.click(findTestObject('Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage'))
+
+// Close the browser
+WebUI.closeBrowser()

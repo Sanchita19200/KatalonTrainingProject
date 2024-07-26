@@ -27,3 +27,32 @@ CustomKeywords.'MyKeywords.closeBrowser'()
 
 CustomKeywords.'MyKeywords.customMessage'('This is a custom message')
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Call a custom keyword named 'hello'
+CustomKeywords.'MyKeywords.hello'()
+
+// Call a custom keyword named 'helloUser' with parameter 'Sanchita'
+CustomKeywords.'MyKeywords.helloUser'('Sanchita')
+
+// Call a custom keyword named 'openBrowserAndNavigate' with parameter 'https://parabank.parasoft.com/parabank/index.htm'
+CustomKeywords.'MyKeywords.openBrowserAndNavigate'('https://parabank.parasoft.com/parabank/index.htm')
+
+// Call a custom keyword named 'closeBrowser'
+CustomKeywords.'MyKeywords.closeBrowser'()
+
+// Call a custom keyword named 'customMessage' with parameter 'This is a custom message'
+CustomKeywords.'MyKeywords.customMessage'('This is a custom message')
+/*
+*  Import necessary libraries and call custom keywords for test automation.
+*
+*  1. Import necessary libraries and custom keywords.
+*  2. Call custom keyword 'hello' without parameters.
+*  3. Call custom keyword 'helloUser' with parameter 'Sanchita'.
+*  4. Call custom keyword 'openBrowserAndNavigate' with URL parameter.
+*  5. Call custom keyword 'closeBrowser'.
+*  6. Call custom keyword 'customMessage' with a custom message parameter.
+*
+*/

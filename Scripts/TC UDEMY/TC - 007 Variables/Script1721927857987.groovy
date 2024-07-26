@@ -20,3 +20,19 @@ import org.openqa.selenium.Keys as Keys
 def name = "Sanchita"
 
 println name
+// Importing necessary libraries for the script
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Setting a variable 'name' with the value "Sanchita"
+name = "Sanchita"
+
+// Printing the value of the variable 'name'
+println name
+/*
+*  Importing necessary libraries and setting a variable with a specific value and printing it.
+*
+*  1. Importing various libraries and classes for different functionalities.
+*  2. Setting a variable 'name' with the value "Sanchita".
+*  3. Printing the value of the variable 'name'.
+*
+*/

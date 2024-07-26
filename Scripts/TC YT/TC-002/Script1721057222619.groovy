@@ -35,3 +35,41 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcar
 
 WebUI.closeBrowser()
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+// Open a browser
+WebUI.openBrowser('')
+
+// Navigate to a specific URL
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+// Click on a "Make Appointment" link
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)'))
+
+// Set text in the username field
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username (1)'), 'John Doe')
+
+// Set encrypted text in the password field
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password (1)'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+// Click on the login button
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login (1)'))
+
+// Click on the menu icon
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
+
+// Verify the presence of a logout link
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'), 0)
+
+// Close the browser
+WebUI.closeBrowser()
+/*
+*  The code opens a browser, navigates to a specific URL, performs login actions, verifies the presence of a logout link, and then closes the browser.
+*
+*  1. Imports necessary libraries and aliases for Katalon Studio keywords and objects.
+*  2. Opens a browser and navigates to a specific URL.
+*  3. Performs login actions by clicking on elements, setting text, and verifying element presence.
+*/

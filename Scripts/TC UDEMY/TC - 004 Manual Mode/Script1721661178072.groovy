@@ -31,3 +31,38 @@ WebUI.verifyTextPresent('Dashboard', false)
 
 WebUI.closeBrowser()
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.*
+
+// Open a browser
+WebUI.openBrowser('')
+
+// Navigate to the specified URL
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+
+// Set text in the username field
+WebUI.setText(findTestObject('Udemy Orange HRM/Page_OrangeHRM/input_Username_username'), 'Admin')
+
+// Set encrypted text in the password field
+WebUI.setEncryptedText(findTestObject('Udemy Orange HRM/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+
+// Click on the Login button
+WebUI.click(findTestObject('Udemy Orange HRM/Page_OrangeHRM/button_Login'))
+
+// Verify that the text 'Dashboard' is not present on the page
+WebUI.verifyTextPresent('Dashboard', false)
+
+// Close the browser
+WebUI.closeBrowser()
+/*
+*  Automates logging into OrangeHRM website and verifying the absence of 'Dashboard' text.
+*
+*  1. Import necessary libraries and classes for automation.
+*  2. Open a browser and navigate to the OrangeHRM login page.
+*  3. Set the username and password fields with 'Admin' and an encrypted password.
+*  4. Click on the login button.
+*  5. Verify that the text 'Dashboard' is not present on the page.
+*  6. Close the browser.
+*
+*/

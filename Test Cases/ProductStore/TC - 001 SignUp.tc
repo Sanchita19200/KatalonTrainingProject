@@ -19,14 +19,14 @@
       <variableId>5b8f8c00-cccc-4b73-92d3-69eb3f1956e7</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'User192'</defaultValue>
+      <defaultValue>'user1920'</defaultValue>
       <description></description>
       <id>6c1b92e4-3983-4644-8f8c-2ca9484a47ae</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'user1920'</defaultValue>
       <description></description>
       <id>5b8f8c00-cccc-4b73-92d3-69eb3f1956e7</id>
       <masked>false</masked>

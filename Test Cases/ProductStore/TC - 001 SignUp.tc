@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 001 SignUp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38cfb7cc-f832-4b09-9a69-e8dcd8617cd3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c1b92e4-3983-4644-8f8c-2ca9484a47ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b8f8c00-cccc-4b73-92d3-69eb3f1956e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'User192'</defaultValue>
+      <description></description>
+      <id>6c1b92e4-3983-4644-8f8c-2ca9484a47ae</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b8f8c00-cccc-4b73-92d3-69eb3f1956e7</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

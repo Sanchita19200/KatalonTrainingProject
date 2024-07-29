@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email</name>
+   <tag></tag>
+   <elementGuidId>ab43570c-080e-4f65-8bc9-b5f291688d6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-validate']/fieldset[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset.fieldset.create.account > div.field.required > label.label > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Email&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a70ab57e-df03-4d2d-984c-3030d2597df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>f5238954-1e9d-4ff8-aff1-1b7615bc6b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-validate&quot;)/fieldset[@class=&quot;fieldset create account&quot;]/div[@class=&quot;field required&quot;]/label[@class=&quot;label&quot;]/span[1]</value>
+      <webElementGuid>1a225185-e956-491d-a9f7-b769f1d5670f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-validate']/fieldset[2]/div/label/span</value>
+      <webElementGuid>a0a70563-a6c6-48de-ac00-63a92e2f751b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-in Information'])[1]/following::span[1]</value>
+      <webElementGuid>c5337de2-39b3-40e1-9ee9-214c9c284a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::span[2]</value>
+      <webElementGuid>15f00ae4-719e-4a17-a35b-40d55426f219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::span[1]</value>
+      <webElementGuid>a7052641-1431-432a-938b-9bfa55e39199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email']/parent::*</value>
+      <webElementGuid>a5d39a4e-78df-4fe3-993f-ee411b62762c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div/label/span</value>
+      <webElementGuid>a82d5b41-d286-4617-84ce-671bc0950c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email' or . = 'Email')]</value>
+      <webElementGuid>a281e1cc-a467-4708-bca5-058b662cd5fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

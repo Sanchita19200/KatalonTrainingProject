@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sat_rbc-day-bg</name>
+   <tag></tag>
+   <elementGuidId>071c6e79-c3d5-4b8f-afeb-81a8cc297485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[4]/div/div[2]/div[2]/div/div[2]/div[5]/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(5) > .rbc-row-bg > div:nth-child(4)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79b1cb89-7101-4d8e-967d-f7cf9a782e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rbc-day-bg</value>
+      <webElementGuid>f3c513ab-6b81-4e1d-9aa4-a4612dff6e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[@class=&quot;container-fluid&quot;]/div[4]/div[1]/div[@class=&quot;row hotel-room-info&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;rbc-month-row&quot;]/div[@class=&quot;rbc-row-bg&quot;]/div[@class=&quot;rbc-day-bg&quot;]</value>
+      <webElementGuid>51412bd6-ed03-4eb0-8297-04c5b67e2f68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[4]/div/div[2]/div[2]/div/div[2]/div[5]/div/div[4]</value>
+      <webElementGuid>ab97f459-5310-4784-81de-63756b6c4b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[4]</value>
+      <webElementGuid>bf15cdca-1554-4575-8b31-6eae2ecfdf92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Welcome to Restful Booker Platform</name>
+   <tag></tag>
+   <elementGuidId>1a3df1ea-50dc-4ba4-b486-8324caaf93c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapseBanner']/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Welcome to Restful Booker Platform&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>cb55c823-c887-48a0-b63d-32127993b991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Restful Booker Platform</value>
+      <webElementGuid>67b90a6c-2be8-4cb1-b0c1-16417acb7ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapseBanner&quot;)/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/h1[1]</value>
+      <webElementGuid>ff5cd9c3-ce53-4f33-a7be-d702c9932b5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapseBanner']/div/div/div/h1</value>
+      <webElementGuid>3d01b9ff-fe9b-4a9b-b962-eac37ffe0033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your one stop shop to practise Software Testing!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4401ea8d-64f6-4a75-9170-de390f2fbff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exploration:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b520e465-022e-4902-ac18-b4da23268442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to Restful Booker Platform']/parent::*</value>
+      <webElementGuid>40bca543-39f5-4a49-9cf1-e98ad67e5fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>19339040-124f-409c-b539-0da18bd0f34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Welcome to Restful Booker Platform' or . = 'Welcome to Restful Booker Platform')]</value>
+      <webElementGuid>a7418fc1-2869-4732-98a8-ce30e44fef96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

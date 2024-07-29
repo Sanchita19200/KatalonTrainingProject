@@ -9,15 +9,16 @@
    <dataFileGUID>58df0888-bd23-422c-a461-59cbceab55a7</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
+   <data>Admin admin123</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>
-      <size>0</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>password</name>
-      <size>0</size>
+      <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

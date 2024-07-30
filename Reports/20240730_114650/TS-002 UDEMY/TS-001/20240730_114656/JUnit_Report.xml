@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-001" time="61.659" tests="3" failures="0" errors="0">
+   <testsuite name="TS-001" tests="3" failures="0" errors="0" time="61.659" skipped="0" timestamp="30-07-2024T11:47:00" hostname="scarl - Sanchita" id="Test Suites/TS-002 UDEMY/TS-001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\KatalonStudio\\UdemyProject\\KatalonTrainingProject\\Reports\\20240730_114650\\TS-002 UDEMY\\TS-001\\20240730_114656"/>
+         <property name="logFiles" value="D:\\KatalonStudio\\UdemyProject\\KatalonTrainingProject\\Reports\\20240730_114650\\TS-002 UDEMY\\TS-001\\20240730_114656\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="scarl - Sanchita"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.121"/>
+         <property name="sessionId" value="ee7cf82278955122e9771a19a306012b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC UDEMY/TC - 003 Record Mode" time="26.116" classname="Test Cases/TC UDEMY/TC - 003 Record Mode" status="PASSED">
+         <system-out><![CDATA[30-07-2024T11:47:00 - [TEST_CASE][PASSED] - Test Cases/TC UDEMY/TC - 003 Record Mode: Test Cases/TC UDEMY/TC - 003 Record Mode
+
+30-07-2024T11:47:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-07-2024T11:47:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-07-2024T11:47:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-07-2024T11:47:04 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+30-07-2024T11:47:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-07-2024T11:47:04 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+30-07-2024T11:47:07 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+30-07-2024T11:47:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+30-07-2024T11:47:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+30-07-2024T11:47:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username'
+
+30-07-2024T11:47:08 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username'
+
+30-07-2024T11:47:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username' is clicked on
+
+30-07-2024T11:47:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username' is clicked on
+
+30-07-2024T11:47:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password'
+
+30-07-2024T11:47:09 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password'
+
+30-07-2024T11:47:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login' is clicked on
+
+30-07-2024T11:47:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login' is clicked on
+
+30-07-2024T11:47:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+30-07-2024T11:47:11 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+30-07-2024T11:47:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+30-07-2024T11:47:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+30-07-2024T11:47:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+30-07-2024T11:47:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+30-07-2024T11:47:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34' is clicked on
+
+30-07-2024T11:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34' is clicked on
+
+30-07-2024T11:47:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31' is clicked on
+
+30-07-2024T11:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31' is clicked on
+
+30-07-2024T11:47:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment"), "This is a sample comment."): Text 'This is a sample comment.' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+30-07-2024T11:47:13 - [MESSAGE][PASSED] - Text 'This is a sample comment.' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+30-07-2024T11:47:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+30-07-2024T11:47:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+30-07-2024T11:47:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation"), "Appointment Confirmation"): Actual text and expected text of test object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation' are matched.
+
+30-07-2024T11:47:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation' are matched.
+
+30-07-2024T11:47:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+30-07-2024T11:47:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+30-07-2024T11:47:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-07-2024T11:47:15 - [MESSAGE][PASSED] - Browser is closed
+
+30-07-2024T11:47:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-07-2024T11:47:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-07-2024T11:47:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-07-2024T11:47:16 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+30-07-2024T11:47:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-07-2024T11:47:16 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+30-07-2024T11:47:19 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+30-07-2024T11:47:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+30-07-2024T11:47:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+30-07-2024T11:47:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username'
+
+30-07-2024T11:47:20 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username'
+
+30-07-2024T11:47:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username' is clicked on
+
+30-07-2024T11:47:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username' is clicked on
+
+30-07-2024T11:47:20 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password'
+
+30-07-2024T11:47:21 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password'
+
+30-07-2024T11:47:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login' is clicked on
+
+30-07-2024T11:47:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login' is clicked on
+
+30-07-2024T11:47:22 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+30-07-2024T11:47:23 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+30-07-2024T11:47:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+30-07-2024T11:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+30-07-2024T11:47:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+30-07-2024T11:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+30-07-2024T11:47:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34' is clicked on
+
+30-07-2024T11:47:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34' is clicked on
+
+30-07-2024T11:47:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31' is clicked on
+
+30-07-2024T11:47:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31' is clicked on
+
+30-07-2024T11:47:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment"), "This is a sample comment."): Text 'This is a sample comment.' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+30-07-2024T11:47:25 - [MESSAGE][PASSED] - Text 'This is a sample comment.' is set on object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+30-07-2024T11:47:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+30-07-2024T11:47:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+30-07-2024T11:47:25 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation"), "Appointment Confirmation"): Actual text and expected text of test object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation' are matched.
+
+30-07-2024T11:47:26 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation' are matched.
+
+30-07-2024T11:47:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+30-07-2024T11:47:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+30-07-2024T11:47:26 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-07-2024T11:47:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC UDEMY/TC - 004 Manual Mode" time="17.494" classname="Test Cases/TC UDEMY/TC - 004 Manual Mode" status="PASSED">
+         <system-out><![CDATA[30-07-2024T11:47:27 - [TEST_CASE][PASSED] - Test Cases/TC UDEMY/TC - 004 Manual Mode: Test Cases/TC UDEMY/TC - 004 Manual Mode
+
+30-07-2024T11:47:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-07-2024T11:47:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-07-2024T11:47:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-07-2024T11:47:28 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+30-07-2024T11:47:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-07-2024T11:47:28 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:30 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:30 - [TEST_STEP][PASSED] - setText(findTestObject("Udemy Orange HRM/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:32 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:32 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Udemy Orange HRM/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:32 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:32 - [TEST_STEP][PASSED] - click(findTestObject("Udemy Orange HRM/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:47:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:47:33 - [TEST_STEP][PASSED] - verifyTextPresent("Dashboard", false): Text 'Dashboard' is present on page 
+
+30-07-2024T11:47:35 - [MESSAGE][PASSED] - Text 'Dashboard' is present on page 
+
+30-07-2024T11:47:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-07-2024T11:47:36 - [MESSAGE][PASSED] - Browser is closed
+
+30-07-2024T11:47:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-07-2024T11:47:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-07-2024T11:47:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-07-2024T11:47:36 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+30-07-2024T11:47:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-07-2024T11:47:36 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:39 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:39 - [TEST_STEP][PASSED] - setText(findTestObject("Udemy Orange HRM/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:41 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:41 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Udemy Orange HRM/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:41 - [TEST_STEP][PASSED] - click(findTestObject("Udemy Orange HRM/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:47:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:47:42 - [TEST_STEP][PASSED] - verifyTextPresent("Dashboard", false): Text 'Dashboard' is present on page 
+
+30-07-2024T11:47:44 - [MESSAGE][PASSED] - Text 'Dashboard' is present on page 
+
+30-07-2024T11:47:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-07-2024T11:47:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC UDEMY/TC - 005 Script Mode" time="17.823" classname="Test Cases/TC UDEMY/TC - 005 Script Mode" status="PASSED">
+         <system-out><![CDATA[30-07-2024T11:47:44 - [TEST_CASE][PASSED] - Test Cases/TC UDEMY/TC - 005 Script Mode: Test Cases/TC UDEMY/TC - 005 Script Mode
+
+30-07-2024T11:47:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-07-2024T11:47:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-07-2024T11:47:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-07-2024T11:47:45 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+30-07-2024T11:47:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-07-2024T11:47:45 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:48 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username"), username): Text 'Admin
+' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:49 - [MESSAGE][PASSED] - Text 'Admin
+' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:49 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:47:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:47:50 - [TEST_STEP][PASSED] - verifyTextPresent("Dashboard", false): Text 'Dashboard' is present on page 
+
+30-07-2024T11:47:52 - [MESSAGE][PASSED] - Text 'Dashboard' is present on page 
+
+30-07-2024T11:47:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-07-2024T11:47:52 - [MESSAGE][PASSED] - Browser is closed
+
+30-07-2024T11:47:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-07-2024T11:47:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-07-2024T11:47:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-07-2024T11:47:53 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+30-07-2024T11:47:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-07-2024T11:47:53 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:57 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+30-07-2024T11:47:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username"), username): Text 'Admin
+' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:59 - [MESSAGE][PASSED] - Text 'Admin
+' is set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username'
+
+30-07-2024T11:47:59 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:59 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password'
+
+30-07-2024T11:47:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:48:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+30-07-2024T11:48:00 - [TEST_STEP][PASSED] - verifyTextPresent("Dashboard", false): Text 'Dashboard' is present on page 
+
+30-07-2024T11:48:02 - [MESSAGE][PASSED] - Text 'Dashboard' is present on page 
+
+30-07-2024T11:48:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-07-2024T11:48:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[30-07-2024T11:47:00 - [TEST_SUITE][PASSED] - TS-001: Test Cases/TC UDEMY/TC - 005 Script Mode]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

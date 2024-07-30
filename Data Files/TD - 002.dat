@@ -7,11 +7,15 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>b54a87f3-e421-43c5-8aee-864d7a4d6d9c</dataFileGUID>
-   <dataSourceUrl></dataSourceUrl>
+   <dataSourceUrl>jdbc:mysql://sql12.freesqldatabase.com&#xd;
+:3306/sql12722979</dataSourceUrl>
    <driver>DBData</driver>
+   <driverClassName></driverClassName>
    <isInternalPath>false</isInternalPath>
-   <query></query>
-   <secureUserAccount>false</secureUserAccount>
+   <password>YjVLU2RKTWwySw==</password>
+   <query>Select * from Employee</query>
+   <secureUserAccount>true</secureUserAccount>
    <sheetName></sheetName>
+   <user>sql12722979</user>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

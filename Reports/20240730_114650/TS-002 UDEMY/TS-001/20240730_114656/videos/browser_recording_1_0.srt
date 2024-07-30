@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://katalon-demo-cura.herokuapp.com/")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment"))
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username"), "John Doe")
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. setEncryptedText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM")
+
+7
+00:00:00,000 --> 00:00:00,000
+25. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login"))
+
+8
+00:00:00,000 --> 00:00:00,000
+29. selectOptionByValue(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true)
+
+9
+00:00:00,000 --> 00:00:00,000
+33. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f"))
+
+10
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs"))
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34"))
+
+12
+00:00:00,000 --> 00:00:00,000
+45. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31"))
+
+13
+00:00:00,000 --> 00:00:00,000
+49. setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment"), "This is a sample comment.")
+
+14
+00:00:00,000 --> 00:00:00,000
+53. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment"))
+
+15
+00:00:00,000 --> 00:00:00,000
+57. verifyElementText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation"), "Appointment Confirmation")
+
+16
+00:00:00,000 --> 00:00:00,000
+61. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage"))
+
+17
+00:00:00,000 --> 00:00:00,000
+65. closeBrowser()
+
+18
+00:00:00,000 --> 00:00:00,000
+69. openBrowser("")
+
+19
+00:00:00,000 --> 00:00:00,000
+73. navigateToUrl("https://katalon-demo-cura.herokuapp.com/")
+
+20
+00:00:00,000 --> 00:00:00,000
+77. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Make Appointment"))
+
+21
+00:00:00,000 --> 00:00:00,000
+81. setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username"), "John Doe")
+
+22
+00:00:00,000 --> 00:00:00,000
+85. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Username_username"))
+
+23
+00:00:00,000 --> 00:00:00,000
+89. setEncryptedText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM")
+
+24
+00:00:00,000 --> 00:00:00,000
+93. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Login"))
+
+25
+00:00:00,000 --> 00:00:00,000
+97. selectOptionByValue(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true)
+
+26
+00:00:00,000 --> 00:00:00,000
+101. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f"))
+
+27
+00:00:00,000 --> 00:00:00,000
+105. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/input_Medicaid_programs"))
+
+28
+00:00:00,000 --> 00:00:00,000
+109. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34"))
+
+29
+00:00:00,000 --> 00:00:00,000
+113. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/td_31"))
+
+30
+00:00:00,000 --> 00:00:00,000
+117. setText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/textarea_Comment_comment"), "This is a sample comment.")
+
+31
+00:00:00,000 --> 00:00:00,000
+121. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/button_Book Appointment"))
+
+32
+00:00:00,000 --> 00:00:00,000
+125. verifyElementText(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/h2_Appointment Confirmation"), "Appointment Confirmation")
+
+33
+00:00:00,000 --> 00:00:00,000
+129. click(findTestObject("Object Repository/Udemy Healthcare Site/Page_CURA Healthcare Service/a_Go to Homepage"))
+
+34
+00:00:00,000 --> 00:00:00,000
+133. closeBrowser()
+

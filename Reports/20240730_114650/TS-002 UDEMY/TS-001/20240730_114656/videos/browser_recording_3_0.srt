@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. setText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username"), username)
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setEncryptedText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ==")
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. verifyTextPresent("Dashboard", false)
+
+7
+00:00:00,000 --> 00:00:00,000
+25. closeBrowser()
+
+8
+00:00:00,000 --> 00:00:00,000
+29. openBrowser("")
+
+9
+00:00:00,000 --> 00:00:00,000
+33. navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
+
+10
+00:00:00,000 --> 00:00:00,000
+37. setText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Username_username"), username)
+
+11
+00:00:00,000 --> 00:00:00,000
+41. setEncryptedText(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/input_Password_password"), "hUKwJTbofgPU9eVlw/CnDQ==")
+
+12
+00:00:00,000 --> 00:00:00,000
+45. click(findTestObject("Object Repository/Udemy Orange HRM/Page_OrangeHRM/button_Login"))
+
+13
+00:00:00,000 --> 00:00:00,000
+49. verifyTextPresent("Dashboard", false)
+
+14
+00:00:00,000 --> 00:00:00,000
+53. closeBrowser()
+

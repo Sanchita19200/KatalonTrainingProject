@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Listners,,,,30-07-2024 13:16:01,30-07-2024 13:16:02,"0,494s",PASSED
+,,,,,,,
+Test Cases/TC UDEMY/Listner,,,,30-07-2024 13:16:01,30-07-2024 13:16:02,"0,222s",PASSED
+Start listener action : beforeTest,,,,30-07-2024 13:16:01,30-07-2024 13:16:01,"0,008s",PASSED
+"println(""
+ I am inside the Test Case 
+"")",,,,30-07-2024 13:16:02,30-07-2024 13:16:02,"0,009s",PASSED
+Start listener action : afterTest,,,,30-07-2024 13:16:02,30-07-2024 13:16:02,"0,022s",PASSED

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Subtract</name>
+   <tag></tag>
+   <elementGuidId>97db91d3-10e0-4e9e-8804-792433aebdfa</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>SOAPAction</name>
+      <type>Main</type>
+      <value>http://tempuri.org/Subtract</value>
+      <webElementGuid>309b375d-6a4d-42b1-8904-c9e3197cf3d0</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>text/xml; charset=utf-8</value>
+      <webElementGuid>9df0cfe2-556f-406e-92a3-d8427452e422</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>9.6.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <path></path>
+   <restRequestMethod></restRequestMethod>
+   <restUrl></restUrl>
+   <serviceType>SOAP</serviceType>
+   <soapBody>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:tem=&quot;http://tempuri.org/&quot;>&#xd;
+   &lt;soapenv:Header/>&#xd;
+   &lt;soapenv:Body>&#xd;
+      &lt;tem:Subtract>&#xd;
+         &lt;tem:a>3&lt;/tem:a>&#xd;
+         &lt;tem:b>3&lt;/tem:b>&#xd;
+      &lt;/tem:Subtract>&#xd;
+   &lt;/soapenv:Body>&#xd;
+&lt;/soapenv:Envelope></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod>SOAP</soapRequestMethod>
+   <soapServiceEndpoint>https://ecs.syr.edu/faculty/fawcett/Handouts/cse775/code/calcWebService/Calc.asmx</soapServiceEndpoint>
+   <soapServiceFunction>Subtract</soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>false</useServiceInfoFromWsdl>
+   <wsdlAddress>https://ecs.syr.edu/faculty/fawcett/Handouts/cse775/code/calcWebService/Calc.asmx?WSDL</wsdlAddress>
+</WebServiceRequestEntity>

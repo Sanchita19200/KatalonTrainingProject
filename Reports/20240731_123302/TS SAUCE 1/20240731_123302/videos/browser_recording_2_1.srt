@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside beforeTest")
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://www.saucedemo.com/")
+
+4
+00:00:00,000 --> 00:00:00,000
+9. doubleClick(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/div_Accepted usernames arestandard_userlock_f87578"))
+
+5
+00:00:00,000 --> 00:00:00,000
+13. click(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/div_Accepted usernames arestandard_userlock_f87578"))
+
+6
+00:00:00,000 --> 00:00:00,000
+17. doubleClick(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/div_Accepted usernames arestandard_userlock_f87578"))
+
+7
+00:00:00,000 --> 00:00:00,000
+21. setText(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/input_Swag Labs_user-name"), "locked_out_user")
+
+8
+00:00:00,000 --> 00:00:00,000
+25. doubleClick(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/div_Password for all userssecret_sauce"))
+
+9
+00:00:00,000 --> 00:00:00,000
+29. setEncryptedText(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/input_Swag Labs_password"), "qcu24s4901FyWDTwXGr6XA==")
+
+10
+00:00:00,000 --> 00:00:00,000
+33. click(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/input_Swag Labs_login-button"))
+
+11
+00:00:00,000 --> 00:00:00,000
+37. rightClick(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/h3_Epic sadface Sorry, this user has been l_a91fd7"))
+
+12
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/div_Epic sadface Sorry, this user has been _e43fcb"))
+
+13
+00:00:00,000 --> 00:00:00,000
+45. doubleClick(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/div_Accepted usernames arestandard_userlock_f87578"))
+
+14
+00:00:00,000 --> 00:00:00,000
+49. doubleClick(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/input_Swag Labs_user-name"))
+
+15
+00:00:00,000 --> 00:00:00,000
+53. setText(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/input_Swag Labs_user-name"), "problem_user")
+
+16
+00:00:00,000 --> 00:00:00,000
+57. click(findTestObject("Object Repository/SauceDLogin2/Page_Swag Labs/input_Swag Labs_login-button"))
+
+17
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

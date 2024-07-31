@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside beforeTest")
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://www.saucedemo.com/")
+
+4
+00:00:00,000 --> 00:00:00,000
+9. doubleClick(findTestObject("Object Repository/SauceD4/Page_Swag Labs/div_Accepted usernames arestandard_userlock_f87578"))
+
+5
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/SauceD4/Page_Swag Labs/input_Swag Labs_user-name"), "error_user")
+
+6
+00:00:00,000 --> 00:00:00,000
+17. doubleClick(findTestObject("Object Repository/SauceD4/Page_Swag Labs/div_Password for all userssecret_sauce"))
+
+7
+00:00:00,000 --> 00:00:00,000
+21. setEncryptedText(findTestObject("Object Repository/SauceD4/Page_Swag Labs/input_Swag Labs_password"), "qcu24s4901FyWDTwXGr6XA==")
+
+8
+00:00:00,000 --> 00:00:00,000
+25. click(findTestObject("Object Repository/SauceD4/Page_Swag Labs/input_Swag Labs_login-button"))
+
+9
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

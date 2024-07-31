@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GITUSER1,Chrome 127.0.0.0,,,31-07-2024 13:10:44,31-07-2024 13:15:16,"4m - 31,943s",FAILED
+,,,,,,,
+Test Cases/GITHUB USER RESEARCH/USER1,Chrome 127.0.0.0,,,31-07-2024 13:10:44,31-07-2024 13:11:24,"39,583s",PASSED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,31-07-2024 13:10:44,31-07-2024 13:10:44,"0,007s",PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,31-07-2024 13:10:45,31-07-2024 13:10:47,"2,393s",PASSED
+"navigateToUrl(""https://simonsmith.github.io/github-user-search/#/search"")",Chrome 127.0.0.0,,,31-07-2024 13:10:47,31-07-2024 13:10:47,"0,395s",PASSED
+"setText(findTestObject(""Object Repository/GITUSER1/Page_Github user search/input_Search for a user_searchInput""), ""SimonSmith"")",Chrome 127.0.0.0,,,31-07-2024 13:10:47,31-07-2024 13:10:48,"0,992s",PASSED
+"sendKeys(findTestObject(""Object Repository/GITUSER1/Page_Github user search/input_Search for a user_searchInput""), Keys.chord(ENTER))",Chrome 127.0.0.0,,,31-07-2024 13:10:48,31-07-2024 13:10:49,"0,363s",PASSED
+"click(findTestObject(""Object Repository/GITUSER1/Page_SimonSmith - Page 1 - Github user search/p_simonsmith""))",Chrome 127.0.0.0,,,31-07-2024 13:10:49,31-07-2024 13:10:50,"0,947s",PASSED
+"click(findTestObject(""Object Repository/GITUSER1/Page_simonsmiths profile - Github user search/a_cypress-image-snapshot""))",Chrome 127.0.0.0,,,31-07-2024 13:10:50,31-07-2024 13:11:24,"33,868s",PASSED
+closeBrowser(),Chrome 127.0.0.0,,,31-07-2024 13:11:24,31-07-2024 13:11:24,"0,303s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,31-07-2024 13:11:24,31-07-2024 13:11:24,"0,004s",PASSED
+,,,,,,,
+Test Cases/GITHUB USER RESEARCH/USER2,Chrome 127.0.0.0,,,31-07-2024 13:13:29,31-07-2024 13:14:09,"39,930s",FAILED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,31-07-2024 13:13:29,31-07-2024 13:13:29,"0,001s",PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,31-07-2024 13:13:29,31-07-2024 13:13:30,"1,064s",PASSED
+"navigateToUrl(""https://simonsmith.github.io/github-user-search/#/search"")",Chrome 127.0.0.0,,,31-07-2024 13:13:30,31-07-2024 13:13:31,"0,710s",PASSED
+"setText(findTestObject(""Object Repository/GITUSER2/Page_Github user search/input_Search for a user_searchInput""), ""Sanchita19200"")",Chrome 127.0.0.0,,,31-07-2024 13:13:31,31-07-2024 13:13:31,"0,873s",PASSED
+"sendKeys(findTestObject(""Object Repository/GITUSER2/Page_Github user search/input_Search for a user_searchInput""), Keys.chord(ENTER))",Chrome 127.0.0.0,,,31-07-2024 13:13:31,31-07-2024 13:13:32,"0,295s",PASSED
+"click(findTestObject(""Object Repository/GITUSER2/Page_Sanchita19200 - Page 1 - Github user search/img_Sanchita19200_Avatar_1pcpsid u-imgResponsive""))",Chrome 127.0.0.0,,,31-07-2024 13:13:32,31-07-2024 13:13:33,"0,897s",PASSED
+"click(findTestObject(""Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/img_Submit_Avatar_1pcpsid u-imgResponsive""))",Chrome 127.0.0.0,,,31-07-2024 13:13:33,31-07-2024 13:13:33,"0,534s",PASSED
+"click(findTestObject(""Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/li_4Repos""))",Chrome 127.0.0.0,,,31-07-2024 13:13:33,31-07-2024 13:13:33,"0,298s",PASSED
+"click(findTestObject(""Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/p_4""))",Chrome 127.0.0.0,,,31-07-2024 13:13:33,31-07-2024 13:13:34,"0,478s",FAILED
+"click(findTestObject(""Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/a_KatalonTrainingProject""))",Chrome 127.0.0.0,,,31-07-2024 13:13:34,31-07-2024 13:14:07,"33,141s",PASSED
+"click(findTestObject(""Object Repository/GITUSER2/Page_GitHub - Sanchita19200KatalonTrainingP_c7615c/span_Code""))",Chrome 127.0.0.0,,,31-07-2024 13:14:07,31-07-2024 13:14:08,"0,897s",PASSED
+"doubleClick(findTestObject(""Object Repository/GITUSER2/Page_GitHub - Sanchita19200KatalonTrainingP_c7615c/a_Drivers""))",Chrome 127.0.0.0,,,31-07-2024 13:14:08,31-07-2024 13:14:09,"0,702s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,31-07-2024 13:14:09,31-07-2024 13:14:09,"0,002s",PASSED
+,,,,,,,
+Test Cases/GITHUB USER RESEARCH/USER8,Chrome 127.0.0.0,,,31-07-2024 13:15:09,31-07-2024 13:15:16,"6,846s",FAILED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,31-07-2024 13:15:09,31-07-2024 13:15:09,"0,001s",PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,31-07-2024 13:15:09,31-07-2024 13:15:10,"0,837s",PASSED
+"navigateToUrl(""https://simonsmith.github.io/github-user-search/#/search"")",Chrome 127.0.0.0,,,31-07-2024 13:15:10,31-07-2024 13:15:10,"0,224s",PASSED
+"setText(findTestObject(""Object Repository/USER8/Page_Github user search/input_Search for a user_searchInput""), ""Rohit "")",Chrome 127.0.0.0,,,31-07-2024 13:15:10,31-07-2024 13:15:11,"0,908s",PASSED
+"sendKeys(findTestObject(""Object Repository/USER8/Page_Github user search/input_Search for a user_searchInput""), Keys.chord(ENTER))",Chrome 127.0.0.0,,,31-07-2024 13:15:11,31-07-2024 13:15:11,"0,328s",PASSED
+"click(findTestObject(""Object Repository/USER8/Page_Rohit - Page 1 - Github user search/p_jrohitofficial""))",Chrome 127.0.0.0,,,31-07-2024 13:15:11,31-07-2024 13:15:12,"0,620s",PASSED
+"click(findTestObject(""Object Repository/USER8/Page_jrohitofficials profile - Github user search/a_Doctor-Portfolio""))",Chrome 127.0.0.0,,,31-07-2024 13:15:12,31-07-2024 13:15:15,"2,771s",FAILED
+"verifyElementText(findTestObject(""Object Repository/USER8/Page_GitHub - jrohitofficialDoctor-Portfolio/a_first commit""), ""first commit"")",Chrome 127.0.0.0,,,31-07-2024 13:15:15,31-07-2024 13:15:16,"1,032s",FAILED
+closeBrowser(),Chrome 127.0.0.0,,,31-07-2024 13:15:16,31-07-2024 13:15:16,"0,102s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,31-07-2024 13:15:16,31-07-2024 13:15:16,"0,002s",PASSED

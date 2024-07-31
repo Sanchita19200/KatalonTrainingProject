@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sanchita19200_Avatar_1pcpsid u-imgResponsive</name>
+   <tag></tag>
+   <elementGuidId>813b2098-a27a-4e6f-9f9b-865f80193b6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.Avatar_1pcpsid.u-imgResponsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/ul/li/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sanchita19200's avatar Sanchita19200&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>74238901-3b46-4e2e-affb-c9d763598653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sanchita19200's avatar</value>
+      <webElementGuid>206daaf4-4628-46f9-baa3-82a0a8cc25f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Avatar_1pcpsid u-imgResponsive</value>
+      <webElementGuid>7149ec00-0be0-48fd-bb09-4881a8289195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://avatars.githubusercontent.com/u/132132426?v=4&amp;s=180</value>
+      <webElementGuid>f9282ceb-f90c-489f-a938-380744d26633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>46633290-1a07-4351-8513-297259a27786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;DefaultLayout_1jug6qr u-flex u-flexCol&quot;]/div[@class=&quot;u-flexGrow1&quot;]/div[@class=&quot;Container_16pg94n&quot;]/div[@class=&quot;Container_inner_w9z6jj-o_O-Container_padding_1cv73u5&quot;]/div[@class=&quot;SearchResultsContainer_item_1mcype0&quot;]/ul[@class=&quot;SearchResults_1uxrx9c u-sm-flex u-sm-flexWrap&quot;]/li[@class=&quot;SearchResults_item_1mclqe7&quot;]/a[@class=&quot;User_abw475 u-flex&quot;]/div[@class=&quot;User_wrapAvatar_3afm6b&quot;]/div[@class=&quot;Image_e296pg&quot;]/img[@class=&quot;Avatar_1pcpsid u-imgResponsive&quot;]</value>
+      <webElementGuid>6082935a-280e-42fe-b68c-4a92252abd26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/ul/li/a/div/div/img</value>
+      <webElementGuid>10253711-5696-448c-aebc-fc6d21d0ba11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Sanchita19200's avatar&quot;]</value>
+      <webElementGuid>4779db74-558d-48c5-b4bf-99da7ae5eb43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>1a79f287-b161-45f1-b11b-7e63c7f99967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;Sanchita19200&quot; , &quot;'&quot; , &quot;s avatar&quot;) and @src = 'https://avatars.githubusercontent.com/u/132132426?v=4&amp;s=180']</value>
+      <webElementGuid>6bad121d-5bb5-40a3-a10a-5c7a129b40f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

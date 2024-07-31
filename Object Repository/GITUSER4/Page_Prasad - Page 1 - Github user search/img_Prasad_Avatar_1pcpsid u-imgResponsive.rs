@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Prasad_Avatar_1pcpsid u-imgResponsive</name>
+   <tag></tag>
+   <elementGuidId>947984c4-fca2-4cf7-ba79-2017969d9853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/ul/li[7]/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PrasadG193's avatar PrasadG193&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7da642db-a559-49c1-9d9d-77b64107b26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>PrasadG193's avatar</value>
+      <webElementGuid>56322816-be07-4a15-b4a7-deaa7d957c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Avatar_1pcpsid u-imgResponsive</value>
+      <webElementGuid>4d14fae4-7fb6-4ba7-b554-cbe897a86890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://avatars.githubusercontent.com/u/7098659?v=4&amp;s=180</value>
+      <webElementGuid>77b68925-8622-4e78-b1b9-9a08cd6e9b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>90</value>
+      <webElementGuid>8bed3f91-5779-4f43-8fe5-406768f9c609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;DefaultLayout_1jug6qr u-flex u-flexCol&quot;]/div[@class=&quot;u-flexGrow1&quot;]/div[@class=&quot;Container_16pg94n&quot;]/div[@class=&quot;Container_inner_w9z6jj-o_O-Container_padding_1cv73u5&quot;]/div[@class=&quot;SearchResultsContainer_item_1mcype0&quot;]/ul[@class=&quot;SearchResults_1uxrx9c u-sm-flex u-sm-flexWrap&quot;]/li[@class=&quot;SearchResults_item_1mclqe7&quot;]/a[@class=&quot;User_abw475 u-flex&quot;]/div[@class=&quot;User_wrapAvatar_3afm6b&quot;]/div[@class=&quot;Image_e296pg&quot;]/img[@class=&quot;Avatar_1pcpsid u-imgResponsive&quot;]</value>
+      <webElementGuid>e17da4fa-e84f-4296-9805-8ea57ae91a10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/ul/li[7]/a/div/div/img</value>
+      <webElementGuid>f19cb86f-4fd6-4bd2-9f80-cc1a4310ae4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;PrasadG193's avatar&quot;]</value>
+      <webElementGuid>ce7700e0-0ed1-4620-ab8f-d90067a4eba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/div/div/img</value>
+      <webElementGuid>27f0ff33-241f-4071-be05-f9de52c79a8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;PrasadG193&quot; , &quot;'&quot; , &quot;s avatar&quot;) and @src = 'https://avatars.githubusercontent.com/u/7098659?v=4&amp;s=180']</value>
+      <webElementGuid>0e7785b4-5d22-4364-a7e3-4ad479505055</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

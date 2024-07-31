@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Submit_Avatar_1pcpsid u-imgResponsive</name>
+   <tag></tag>
+   <elementGuidId>71b85dca-38ff-4bef-8cc0-c37127b6a4bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.Avatar_1pcpsid.u-imgResponsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Sanchita Singh's avatar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b38c0918-3a4d-4ec1-869a-273a8c04c1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sanchita Singh's avatar</value>
+      <webElementGuid>2d0bedac-11d7-49bb-aae6-e24f957866b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Avatar_1pcpsid u-imgResponsive</value>
+      <webElementGuid>dda59197-cc45-47f4-b188-885d13dadd44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://avatars.githubusercontent.com/u/132132426?v=4&amp;s=460</value>
+      <webElementGuid>cd22d6da-3138-4517-a5e1-37964f9b828f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>230</value>
+      <webElementGuid>2122f40b-e3b5-4bdd-a1e9-236c1eaaa972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;DefaultLayout_1jug6qr u-flex u-flexCol&quot;]/div[@class=&quot;u-flexGrow1&quot;]/div[@class=&quot;Container_16pg94n&quot;]/div[@class=&quot;Container_inner_w9z6jj-o_O-Container_padding_1cv73u5&quot;]/div[@class=&quot;Profile_container_9yvb3b&quot;]/div[@class=&quot;u-sm-flex&quot;]/div[@class=&quot;ProfileHeader_avatar_1ijjnm5&quot;]/div[@class=&quot;Image_e296pg&quot;]/img[@class=&quot;Avatar_1pcpsid u-imgResponsive&quot;]</value>
+      <webElementGuid>3eb95cb4-aca8-4766-a7d4-85a0f610a18b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div/img</value>
+      <webElementGuid>2d82da2a-364d-45a0-ad86-72de8e6976ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Sanchita Singh's avatar&quot;]</value>
+      <webElementGuid>748c4e5c-1aa5-4d7b-baa7-73db0c1a19db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>37896aeb-a736-4051-9107-431c6706b6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;Sanchita Singh&quot; , &quot;'&quot; , &quot;s avatar&quot;) and @src = 'https://avatars.githubusercontent.com/u/132132426?v=4&amp;s=460']</value>
+      <webElementGuid>20a4b0c9-b936-46cf-a11b-b285e4b52047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

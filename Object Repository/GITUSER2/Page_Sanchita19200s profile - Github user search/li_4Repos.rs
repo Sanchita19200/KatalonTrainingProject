@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_4Repos</name>
+   <tag></tag>
+   <elementGuidId>56fab064-570a-4446-af9a-5da689abb736</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div/div[2]/div[4]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;4Repos&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>16401ac3-0205-49c8-bb46-dbfdbecf70d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Stats_item_1p0a99 u-flex u-flexCol u-flexAlignItemsCenter</value>
+      <webElementGuid>d931c86a-e423-43a9-a053-e91505b793bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4Repos</value>
+      <webElementGuid>eafab79b-e543-47a2-8c08-ed29320dc2dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;DefaultLayout_1jug6qr u-flex u-flexCol&quot;]/div[@class=&quot;u-flexGrow1&quot;]/div[@class=&quot;Container_16pg94n&quot;]/div[@class=&quot;Container_inner_w9z6jj-o_O-Container_padding_1cv73u5&quot;]/div[@class=&quot;Profile_container_9yvb3b&quot;]/div[@class=&quot;u-sm-flex&quot;]/div[@class=&quot;u-sm-flexGrow1 u-sm-flex u-sm-flexCol&quot;]/div[@class=&quot;u-sm-flexExpandTop&quot;]/ul[@class=&quot;u-flex&quot;]/li[@class=&quot;Stats_item_1p0a99 u-flex u-flexCol u-flexAlignItemsCenter&quot;]</value>
+      <webElementGuid>0837bd6d-4bc5-4075-82fb-7a3e1a450b8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div[2]/div[4]/ul/li[3]</value>
+      <webElementGuid>12199177-4a9a-4cbb-894e-c98549361e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Sanchita19200'])[1]/following::li[4]</value>
+      <webElementGuid>0ee239d5-dc51-4d49-afba-011a7213dcb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sanchita Singh'])[1]/following::li[4]</value>
+      <webElementGuid>5071eabf-862b-4587-843c-d4d7712adbc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repositories'])[1]/preceding::li[1]</value>
+      <webElementGuid>1d3e3ab7-5687-4fd5-896b-f8a0dd95ffec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KatalonTrainingProject'])[1]/preceding::li[1]</value>
+      <webElementGuid>0e89a4e8-3efd-4b7b-afa1-1cbdecd2c881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>85c0aeba-74c0-4c34-86a8-2a44a9205f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '4Repos' or . = '4Repos')]</value>
+      <webElementGuid>fe7b470e-3dd5-42bc-a260-48861bfd4eb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

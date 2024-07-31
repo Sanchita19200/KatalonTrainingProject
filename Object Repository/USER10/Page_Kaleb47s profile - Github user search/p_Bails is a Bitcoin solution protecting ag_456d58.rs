@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Bails is a Bitcoin solution protecting ag_456d58</name>
+   <tag></tag>
+   <elementGuidId>a81f0ce7-f06c-4103-9621-666a034b13f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.Repo_desc_ylvipy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/ul/li/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Bails is a Bitcoin solution protecting against surveillance, censorship, and con&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6b5a3a2c-d109-4fee-8684-01cdb6f16d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Repo_desc_ylvipy</value>
+      <webElementGuid>8eec06a0-3c9b-48a3-8599-d60e19e859f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. It installs Bitcoin Core to the Persistent Storage in Tails with the provided script and creates and recovers Bitcoin Core wallets from paper Codex32 (BIP93) seed backups. It also creates backup Bails USBs and shareable blank Bails USBs. Learn more in README.</value>
+      <webElementGuid>a0fc48c4-7575-4add-a0e6-c582a6d9a413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;DefaultLayout_1jug6qr u-flex u-flexCol&quot;]/div[@class=&quot;u-flexGrow1&quot;]/div[@class=&quot;Container_16pg94n&quot;]/div[@class=&quot;Container_inner_w9z6jj-o_O-Container_padding_1cv73u5&quot;]/div[@class=&quot;Profile_container_9yvb3b&quot;]/div[@class=&quot;Profile_content_rci9mp Grid Grid--withGutter&quot;]/div[@class=&quot;Profile_repos_koa90h Grid-cell u-sm-size1of2&quot;]/ul[1]/li[@class=&quot;ItemList_item_dgdnyv&quot;]/div[1]/p[@class=&quot;Repo_desc_ylvipy&quot;]</value>
+      <webElementGuid>c7bc8535-aff2-4c67-8aab-a07cc2b29946</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/ul/li/div/p[2]</value>
+      <webElementGuid>ccb71089-883b-4455-bbe2-aac87ccab43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(fork)'])[1]/following::p[1]</value>
+      <webElementGuid>16251a9b-e186-4611-85de-316ea73b134b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bails'])[1]/following::p[1]</value>
+      <webElementGuid>c2e8a0a4-60a5-4cbb-8a20-19c249560fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concert-Poster'])[1]/preceding::p[4]</value>
+      <webElementGuid>b31c29c1-23ff-4e09-9276-ca5cbe067f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kaleb47.github.io'])[1]/preceding::p[9]</value>
+      <webElementGuid>1a7f9481-cfea-4334-9fa3-746b83a86095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. It installs Bitcoin Core to the Persistent Storage in Tails with the provided script and creates and recovers Bitcoin Core wallets from paper Codex32 (BIP93) seed backups. It also creates backup Bails USBs and shareable blank Bails USBs. Learn more in README.']/parent::*</value>
+      <webElementGuid>bfc7441e-59d5-430c-9acd-1ee950b40dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p[2]</value>
+      <webElementGuid>39e67adc-7363-4d20-a1b0-1cf8f792c15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. It installs Bitcoin Core to the Persistent Storage in Tails with the provided script and creates and recovers Bitcoin Core wallets from paper Codex32 (BIP93) seed backups. It also creates backup Bails USBs and shareable blank Bails USBs. Learn more in README.' or . = 'Bails is a Bitcoin solution protecting against surveillance, censorship, and confiscation. It installs Bitcoin Core to the Persistent Storage in Tails with the provided script and creates and recovers Bitcoin Core wallets from paper Codex32 (BIP93) seed backups. It also creates backup Bails USBs and shareable blank Bails USBs. Learn more in README.')]</value>
+      <webElementGuid>2c9a377f-10cd-46da-b373-621940e9e218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

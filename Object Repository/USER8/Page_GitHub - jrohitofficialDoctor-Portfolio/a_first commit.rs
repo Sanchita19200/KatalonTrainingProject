@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_first commit</name>
+   <tag></tag>
+   <elementGuidId>6bd3dc51-0d6a-42d0-a6f3-520829660351</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-directory-commit-message > a.Link--secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='folder-row-0']/td[3]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;public, (Directory) first commit Jul 27, 20244 days ago&quot;i] >> internal:attr=[title=&quot;first commit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5316dc79-20a0-4581-b30c-105d4060f929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pjax</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6bb8fa9f-daf2-4bd7-90d8-96f759d1077a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>first commit</value>
+      <webElementGuid>014cfa4e-011a-405f-a471-7154d336ad22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Link--secondary</value>
+      <webElementGuid>309d2354-d9e2-44e3-890e-c6e11c87875b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jrohitofficial/Doctor-Portfolio/commit/6946b60ceb022c2cf494f70e47f7b3b4e9e5ea9b</value>
+      <webElementGuid>2d42222e-5e2f-4822-86a1-7493956f4851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>first commit</value>
+      <webElementGuid>ef24e099-35a9-41ce-abb2-1e46ddd75826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;folder-row-0&quot;)/td[@class=&quot;react-directory-row-commit-cell&quot;]/div[1]/div[@class=&quot;react-directory-commit-message&quot;]/a[@class=&quot;Link--secondary&quot;]</value>
+      <webElementGuid>96f570d5-6fc4-4210-a4d2-9e641109a4b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='folder-row-0']/td[3]/div/div/a</value>
+      <webElementGuid>18999b6e-a0c3-4b27-b252-760eaad6b7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'first commit')])[2]</value>
+      <webElementGuid>4121bf44-5250-4d95-bb69-f2404d9771cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='public'])[2]/following::a[1]</value>
+      <webElementGuid>b47dbb6c-01a4-4529-a5a8-5a832478c10d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='public'])[1]/following::a[2]</value>
+      <webElementGuid>b4076ee7-1740-428e-8da3-769cd61b2c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jul 27, 2024'])[3]/preceding::a[1]</value>
+      <webElementGuid>cf116b99-46fd-44c4-890f-a9c39cad676a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='src'])[1]/preceding::a[1]</value>
+      <webElementGuid>a52e1f8d-d730-43ac-9ff4-5a62509f4129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/jrohitofficial/Doctor-Portfolio/commit/6946b60ceb022c2cf494f70e47f7b3b4e9e5ea9b')])[3]</value>
+      <webElementGuid>d47cb9fc-79b8-4f36-a8f7-3d603064500a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div/a</value>
+      <webElementGuid>c394dc6b-98b4-4f35-b13c-c3c18df87a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'first commit' and @href = '/jrohitofficial/Doctor-Portfolio/commit/6946b60ceb022c2cf494f70e47f7b3b4e9e5ea9b' and (text() = 'first commit' or . = 'first commit')]</value>
+      <webElementGuid>11a107dc-644f-42b7-a03e-c485be3da414</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

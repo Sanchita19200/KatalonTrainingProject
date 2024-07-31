@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://simonsmith.github.io/github-user-search/#/search")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. setText(findTestObject("Object Repository/GITUSER1/Page_Github user search/input_Search for a user_searchInput"), "SimonSmith")
+
+4
+00:00:00,000 --> 00:00:00,000
+13. sendKeys(findTestObject("Object Repository/GITUSER1/Page_Github user search/input_Search for a user_searchInput"), Keys.chord(ENTER))
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/GITUSER1/Page_SimonSmith - Page 1 - Github user search/p_simonsmith"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. click(findTestObject("Object Repository/GITUSER1/Page_simonsmiths profile - Github user search/a_cypress-image-snapshot"))
+
+7
+00:00:00,000 --> 00:00:00,000
+25. closeBrowser()
+
+8
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

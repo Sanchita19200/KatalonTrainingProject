@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside beforeTest")
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://simonsmith.github.io/github-user-search/#/search")
+
+4
+00:00:00,000 --> 00:00:00,000
+9. setText(findTestObject("Object Repository/GITUSER2/Page_Github user search/input_Search for a user_searchInput"), "Sanchita19200")
+
+5
+00:00:00,000 --> 00:00:00,000
+13. sendKeys(findTestObject("Object Repository/GITUSER2/Page_Github user search/input_Search for a user_searchInput"), Keys.chord(ENTER))
+
+6
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/GITUSER2/Page_Sanchita19200 - Page 1 - Github user search/img_Sanchita19200_Avatar_1pcpsid u-imgResponsive"))
+
+7
+00:00:00,000 --> 00:00:00,000
+21. click(findTestObject("Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/img_Submit_Avatar_1pcpsid u-imgResponsive"))
+
+8
+00:00:00,000 --> 00:00:00,000
+25. click(findTestObject("Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/li_4Repos"))
+
+9
+00:00:00,000 --> 00:00:00,000
+29. click(findTestObject("Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/p_4"))
+
+10
+00:00:00,000 --> 00:00:00,000
+33. click(findTestObject("Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/a_KatalonTrainingProject"))
+
+11
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Object Repository/GITUSER2/Page_GitHub - Sanchita19200KatalonTrainingP_c7615c/span_Code"))
+
+12
+00:00:00,000 --> 00:00:00,000
+41. doubleClick(findTestObject("Object Repository/GITUSER2/Page_GitHub - Sanchita19200KatalonTrainingP_c7615c/a_Drivers"))
+
+13
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

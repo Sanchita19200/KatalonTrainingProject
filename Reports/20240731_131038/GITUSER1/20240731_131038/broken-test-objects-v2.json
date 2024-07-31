@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Repositories\u0027])[1]/following::a[1]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/GITUSER1/Page_simonsmiths profile - Github user search/a_cypress-image-snapshot_neighbor.png"
+      "pathToScreenshot": "Reports/20240731_131038/GITUSER1/20240731_131038/Object Repository/GITUSER1/Page_simonsmiths profile - Github user search/a_cypress-image-snapshot_neighbor.png"
     },
     {
       "approved": true,
@@ -18,7 +18,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Repositories\u0027])[1]/following::a[1]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/a_KatalonTrainingProject_neighbor.png"
+      "pathToScreenshot": "Reports/20240731_131038/GITUSER1/20240731_131038/Object Repository/GITUSER2/Page_Sanchita19200s profile - Github user search/a_KatalonTrainingProject_neighbor.png"
     }
   ]
 }

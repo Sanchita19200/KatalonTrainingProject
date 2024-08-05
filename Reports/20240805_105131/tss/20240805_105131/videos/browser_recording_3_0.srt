@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside beforeTest")
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://www.usertesting.com/get-paid-to-test")
+
+4
+00:00:00,000 --> 00:00:00,000
+9. rightClick(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/img_Get started_lazyloaded"))
+
+5
+00:00:00,000 --> 00:00:00,000
+13. rightClick(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time"))
+
+6
+00:00:00,000 --> 00:00:00,000
+17. rightClick(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/p_Try the ultimate side hustle. Its easy, f_9b9a41"))
+
+7
+00:00:00,000 --> 00:00:00,000
+21. verifyElementText(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time"), "Boost your monthly income in your free time")
+
+8
+00:00:00,000 --> 00:00:00,000
+25. verifyElementText(findTestObject("Object Repository/Page_(2) New Messages/p_Try the ultimate side hustle. Its easy, f_9b9a41"), "Try the ultimate side hustle. It’s easy, fast, and simple. Share your perspective on products and experiences and make money online from the comfort of your home.")
+
+9
+00:00:00,000 --> 00:00:00,000
+29. verifyElementPresent(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/button_Get started"), 0)
+
+10
+00:00:00,000 --> 00:00:00,000
+33. rightClick(findTestObject("Object Repository/Page_(2) New Messages/img_Learn more_ls-is-cached lazyloaded"))
+
+11
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Object Repository/Page_(2) New Messages/div_Learn more_vertical-tab-right-content-2"))
+
+12
+00:00:00,000 --> 00:00:00,000
+41. verifyElementClickable(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/a_Sign In"))
+
+13
+00:00:00,000 --> 00:00:00,000
+45. closeBrowser()
+
+14
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

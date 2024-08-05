@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="tss" time="26.863" tests="4" failures="0" errors="0">
+   <testsuite name="tss" tests="4" failures="0" errors="0" time="26.863" skipped="0" timestamp="05-08-2024T10:51:37" hostname="scarl - Sanchita" id="Test Suites/tss">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\KatalonStudio\\UdemyProject\\KatalonTrainingProject\\Reports\\20240805_105131\\tss\\20240805_105131"/>
+         <property name="logFiles" value="D:\\KatalonStudio\\UdemyProject\\KatalonTrainingProject\\Reports\\20240805_105131\\tss\\20240805_105131\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="scarl - Sanchita"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.104"/>
+         <property name="sessionId" value="e938495111834fccaf09f05faa6b2a6a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Forms/KW10" time="0.295" classname="Test Cases/Forms/KW10" status="PASSED">
+         <system-out><![CDATA[05-08-2024T10:51:38 - [TEST_CASE][PASSED] - Test Cases/Forms/KW10: Test Cases/Forms/KW10
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - Start listener action : beforeTest: null
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - println("I am inside beforeTest"): null
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - KW10.containsSubstring("", ""): KW10.containsSubstring is PASSED
+
+05-08-2024T10:51:38 - [MESSAGE][PASSED] - KW10.containsSubstring is PASSED
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - Start listener action : afterTest: null
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - println("I am inside afterTest"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Forms/google" time="7.068" classname="Test Cases/Forms/google" status="PASSED">
+         <system-out><![CDATA[05-08-2024T10:51:38 - [TEST_CASE][PASSED] - Test Cases/Forms/google: Test Cases/Forms/google
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - Start listener action : beforeTest: null
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - println("I am inside beforeTest"): null
+
+05-08-2024T10:51:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-08-2024T10:51:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-08-2024T10:51:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-08-2024T10:51:41 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+05-08-2024T10:51:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-08-2024T10:51:41 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+05-08-2024T10:51:42 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+05-08-2024T10:51:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Google/input_Report inappropriate predictions_btnK"), 0): Object 'Object Repository/Page_Google/input_Report inappropriate predictions_btnK' is present
+
+05-08-2024T10:51:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+05-08-2024T10:51:44 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Google/input_Report inappropriate predictions_btnK' is present
+
+05-08-2024T10:51:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Google/textarea_Sign in_q"), 0): Object 'Object Repository/Page_Google/textarea_Sign in_q' is present
+
+05-08-2024T10:51:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+05-08-2024T10:51:44 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Google/textarea_Sign in_q' is present
+
+05-08-2024T10:51:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea_Sign in_q"), "Katalon Studio Tutorials"): Text 'Katalon Studio Tutorials' is set on object 'Object Repository/Page_Google/textarea_Sign in_q'
+
+05-08-2024T10:51:45 - [MESSAGE][PASSED] - Text 'Katalon Studio Tutorials' is set on object 'Object Repository/Page_Google/textarea_Sign in_q'
+
+05-08-2024T10:51:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-08-2024T10:51:45 - [MESSAGE][PASSED] - Browser is closed
+
+05-08-2024T10:51:45 - [TEST_STEP][PASSED] - Start listener action : afterTest: null
+
+05-08-2024T10:51:45 - [TEST_STEP][PASSED] - println("I am inside afterTest"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Forms/p2t" time="9.917" classname="Test Cases/Forms/p2t" status="PASSED">
+         <system-out><![CDATA[05-08-2024T10:51:45 - [TEST_CASE][PASSED] - Test Cases/Forms/p2t: Test Cases/Forms/p2t
+
+05-08-2024T10:51:45 - [TEST_STEP][PASSED] - Start listener action : beforeTest: null
+
+05-08-2024T10:51:45 - [TEST_STEP][PASSED] - println("I am inside beforeTest"): null
+
+05-08-2024T10:51:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-08-2024T10:51:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-08-2024T10:51:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-08-2024T10:51:46 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+05-08-2024T10:51:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-08-2024T10:51:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.usertesting.com/get-paid-to-test"): Navigate to 'https://www.usertesting.com/get-paid-to-test' successfully
+
+05-08-2024T10:51:48 - [MESSAGE][PASSED] - Navigate to 'https://www.usertesting.com/get-paid-to-test' successfully
+
+05-08-2024T10:51:48 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/img_Get started_lazyloaded")): Object: 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/img_Get started_lazyloaded' is right clicked on
+
+05-08-2024T10:51:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/img_Get started_lazyloaded' is right clicked on
+
+05-08-2024T10:51:51 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time")): Object: 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time' is right clicked on
+
+05-08-2024T10:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time' is right clicked on
+
+05-08-2024T10:51:52 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/p_Try the ultimate side hustle. Its easy, f_9b9a41")): Object: 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/p_Try the ultimate side hustle. Its easy, f_9b9a41' is right clicked on
+
+05-08-2024T10:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/p_Try the ultimate side hustle. Its easy, f_9b9a41' is right clicked on
+
+05-08-2024T10:51:53 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time"), "Boost your monthly income in your free time"): Actual text and expected text of test object 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time' are matched.
+
+05-08-2024T10:51:53 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time' are matched.
+
+05-08-2024T10:51:53 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_(2) New Messages/p_Try the ultimate side hustle. Its easy, f_9b9a41"), "Try the ultimate side hustle. It’s easy, fast, and simple. Share your perspective on products and experiences and make money online from the comfort of your home."): Actual text and expected text of test object 'Object Repository/Page_(2) New Messages/p_Try the ultimate side hustle. Its easy, f_9b9a41' are matched.
+
+05-08-2024T10:51:53 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_(2) New Messages/p_Try the ultimate side hustle. Its easy, f_9b9a41' are matched.
+
+05-08-2024T10:51:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/button_Get started"), 0): Object 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/button_Get started' is present
+
+05-08-2024T10:51:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+05-08-2024T10:51:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/button_Get started' is present
+
+05-08-2024T10:51:54 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_(2) New Messages/img_Learn more_ls-is-cached lazyloaded")): Object: 'Object Repository/Page_(2) New Messages/img_Learn more_ls-is-cached lazyloaded' is right clicked on
+
+05-08-2024T10:51:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_(2) New Messages/img_Learn more_ls-is-cached lazyloaded' is right clicked on
+
+05-08-2024T10:51:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_(2) New Messages/div_Learn more_vertical-tab-right-content-2")): Object: 'Object Repository/Page_(2) New Messages/div_Learn more_vertical-tab-right-content-2' is clicked on
+
+05-08-2024T10:51:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_(2) New Messages/div_Learn more_vertical-tab-right-content-2' is clicked on
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/a_Sign In")): Object 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/a_Sign In' is clickable
+
+05-08-2024T10:51:55 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/a_Sign In' is clickable
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-08-2024T10:51:55 - [MESSAGE][PASSED] - Browser is closed
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - Start listener action : afterTest: null
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - println("I am inside afterTest"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Forms/para" time="9.208" classname="Test Cases/Forms/para" status="PASSED">
+         <system-out><![CDATA[05-08-2024T10:51:55 - [TEST_CASE][PASSED] - Test Cases/Forms/para: Test Cases/Forms/para
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - Start listener action : beforeTest: null
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - println("I am inside beforeTest"): null
+
+05-08-2024T10:51:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-08-2024T10:51:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-08-2024T10:51:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-08-2024T10:51:56 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+05-08-2024T10:51:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-08-2024T10:51:56 - [TEST_STEP][PASSED] - navigateToUrl("https://parabank.parasoft.com/parabank/index.htm"): Navigate to 'https://parabank.parasoft.com/parabank/index.htm' successfully
+
+05-08-2024T10:52:02 - [MESSAGE][PASSED] - Navigate to 'https://parabank.parasoft.com/parabank/index.htm' successfully
+
+05-08-2024T10:52:02 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/li_Solutions"), "Solutions"): Actual text and expected text of test object 'Object Repository/Page_ParaBank  Welcome  Online Banking/li_Solutions' are matched.
+
+05-08-2024T10:52:02 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_ParaBank  Welcome  Online Banking/li_Solutions' are matched.
+
+05-08-2024T10:52:02 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_About Us"), "About Us"): Actual text and expected text of test object 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_About Us' are matched.
+
+05-08-2024T10:52:02 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_About Us' are matched.
+
+05-08-2024T10:52:02 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_Services"), "Services"): Actual text and expected text of test object 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_Services' are matched.
+
+05-08-2024T10:52:03 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_Services' are matched.
+
+05-08-2024T10:52:03 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/img_Solutions_logo"), 0): Object 'Object Repository/Page_ParaBank  Welcome  Online Banking/img_Solutions_logo' is present
+
+05-08-2024T10:52:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+05-08-2024T10:52:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_ParaBank  Welcome  Online Banking/img_Solutions_logo' is present
+
+05-08-2024T10:52:03 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_home"), 0): Object 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_home' is present
+
+05-08-2024T10:52:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+05-08-2024T10:52:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_home' is present
+
+05-08-2024T10:52:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_home")): Object: 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_home' is clicked on
+
+05-08-2024T10:52:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ParaBank  Welcome  Online Banking/a_home' is clicked on
+
+05-08-2024T10:52:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-08-2024T10:52:04 - [MESSAGE][PASSED] - Browser is closed
+
+05-08-2024T10:52:04 - [TEST_STEP][PASSED] - Start listener action : afterTest: null
+
+05-08-2024T10:52:04 - [TEST_STEP][PASSED] - println("I am inside afterTest"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-08-2024T10:51:37 - [TEST_SUITE][PASSED] - tss: Test Cases/Forms/para]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

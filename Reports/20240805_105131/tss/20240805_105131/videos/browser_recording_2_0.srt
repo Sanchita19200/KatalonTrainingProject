@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside beforeTest")
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://www.google.com/")
+
+4
+00:00:00,000 --> 00:00:00,000
+9. verifyElementPresent(findTestObject("Object Repository/Page_Google/input_Report inappropriate predictions_btnK"), 0)
+
+5
+00:00:00,000 --> 00:00:00,000
+13. verifyElementPresent(findTestObject("Object Repository/Page_Google/textarea_Sign in_q"), 0)
+
+6
+00:00:00,000 --> 00:00:00,000
+17. setText(findTestObject("Object Repository/Page_Google/textarea_Sign in_q"), "Katalon Studio Tutorials")
+
+7
+00:00:00,000 --> 00:00:00,000
+21. closeBrowser()
+
+8
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

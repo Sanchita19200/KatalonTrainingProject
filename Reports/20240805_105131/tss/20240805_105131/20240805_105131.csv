@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+tss,Chrome 127.0.0.0,,,05-08-2024 10:51:37,05-08-2024 10:52:04,"26,863s",PASSED
+,,,,,,,
+Test Cases/Forms/KW10,Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:38,"0,295s",PASSED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:38,"0,007s",PASSED
+"KW10.containsSubstring("""", """")",Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:38,"0,036s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:38,"0,021s",PASSED
+,,,,,,,
+Test Cases/Forms/google,Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:45,"7,068s",PASSED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:38,"0,007s",PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,05-08-2024 10:51:38,05-08-2024 10:51:41,"2,720s",PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 127.0.0.0,,,05-08-2024 10:51:41,05-08-2024 10:51:42,"1,341s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Google/input_Report inappropriate predictions_btnK""), 0)",Chrome 127.0.0.0,,,05-08-2024 10:51:42,05-08-2024 10:51:44,"1,452s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Google/textarea_Sign in_q""), 0)",Chrome 127.0.0.0,,,05-08-2024 10:51:44,05-08-2024 10:51:44,"0,294s",PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_Sign in_q""), ""Katalon Studio Tutorials"")",Chrome 127.0.0.0,,,05-08-2024 10:51:44,05-08-2024 10:51:45,"0,762s",PASSED
+closeBrowser(),Chrome 127.0.0.0,,,05-08-2024 10:51:45,05-08-2024 10:51:45,"0,308s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,05-08-2024 10:51:45,05-08-2024 10:51:45,"0,002s",PASSED
+,,,,,,,
+Test Cases/Forms/p2t,Chrome 127.0.0.0,,,05-08-2024 10:51:45,05-08-2024 10:51:55,"9,917s",PASSED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,05-08-2024 10:51:45,05-08-2024 10:51:45,"0,002s",PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,05-08-2024 10:51:45,05-08-2024 10:51:46,"0,940s",PASSED
+"navigateToUrl(""https://www.usertesting.com/get-paid-to-test"")",Chrome 127.0.0.0,,,05-08-2024 10:51:46,05-08-2024 10:51:48,"1,508s",PASSED
+"rightClick(findTestObject(""Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/img_Get started_lazyloaded""))",Chrome 127.0.0.0,,,05-08-2024 10:51:48,05-08-2024 10:51:51,"3,501s",PASSED
+"rightClick(findTestObject(""Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time""))",Chrome 127.0.0.0,,,05-08-2024 10:51:51,05-08-2024 10:51:52,"1,047s",PASSED
+"rightClick(findTestObject(""Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/p_Try the ultimate side hustle. Its easy, f_9b9a41""))",Chrome 127.0.0.0,,,05-08-2024 10:51:52,05-08-2024 10:51:53,"0,440s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/h1_Boost your monthly income in your free time""), ""Boost your monthly income in your free time"")",Chrome 127.0.0.0,,,05-08-2024 10:51:53,05-08-2024 10:51:53,"0,315s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_(2) New Messages/p_Try the ultimate side hustle. Its easy, f_9b9a41""), ""Try the ultimate side hustle. It’s easy, fast, and simple. Share your perspective on products and experiences and make money online from the comfort of your home."")",Chrome 127.0.0.0,,,05-08-2024 10:51:53,05-08-2024 10:51:53,"0,291s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/button_Get started""), 0)",Chrome 127.0.0.0,,,05-08-2024 10:51:53,05-08-2024 10:51:54,"0,285s",PASSED
+"rightClick(findTestObject(""Object Repository/Page_(2) New Messages/img_Learn more_ls-is-cached lazyloaded""))",Chrome 127.0.0.0,,,05-08-2024 10:51:54,05-08-2024 10:51:54,"0,424s",PASSED
+"click(findTestObject(""Object Repository/Page_(2) New Messages/div_Learn more_vertical-tab-right-content-2""))",Chrome 127.0.0.0,,,05-08-2024 10:51:54,05-08-2024 10:51:55,"0,432s",PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Get Paid to Test  Make Money Online  S_84d4cb/a_Sign In""))",Chrome 127.0.0.0,,,05-08-2024 10:51:55,05-08-2024 10:51:55,"0,325s",PASSED
+closeBrowser(),Chrome 127.0.0.0,,,05-08-2024 10:51:55,05-08-2024 10:51:55,"0,248s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,05-08-2024 10:51:55,05-08-2024 10:51:55,"0,003s",PASSED
+,,,,,,,
+Test Cases/Forms/para,Chrome 127.0.0.0,,,05-08-2024 10:51:55,05-08-2024 10:52:04,"9,208s",PASSED
+Start listener action : beforeTest,Chrome 127.0.0.0,,,05-08-2024 10:51:55,05-08-2024 10:51:55,"0,001s",PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,05-08-2024 10:51:55,05-08-2024 10:51:56,"0,900s",PASSED
+"navigateToUrl(""https://parabank.parasoft.com/parabank/index.htm"")",Chrome 127.0.0.0,,,05-08-2024 10:51:56,05-08-2024 10:52:02,"5,506s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/li_Solutions""), ""Solutions"")",Chrome 127.0.0.0,,,05-08-2024 10:52:02,05-08-2024 10:52:02,"0,528s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/a_About Us""), ""About Us"")",Chrome 127.0.0.0,,,05-08-2024 10:52:02,05-08-2024 10:52:02,"0,291s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/a_Services""), ""Services"")",Chrome 127.0.0.0,,,05-08-2024 10:52:02,05-08-2024 10:52:03,"0,282s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/img_Solutions_logo""), 0)",Chrome 127.0.0.0,,,05-08-2024 10:52:03,05-08-2024 10:52:03,"0,286s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/a_home""), 0)",Chrome 127.0.0.0,,,05-08-2024 10:52:03,05-08-2024 10:52:03,"0,274s",PASSED
+"click(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/a_home""))",Chrome 127.0.0.0,,,05-08-2024 10:52:03,05-08-2024 10:52:04,"0,777s",PASSED
+closeBrowser(),Chrome 127.0.0.0,,,05-08-2024 10:52:04,05-08-2024 10:52:04,"0,257s",PASSED
+Start listener action : afterTest,Chrome 127.0.0.0,,,05-08-2024 10:52:04,05-08-2024 10:52:04,"0,002s",PASSED

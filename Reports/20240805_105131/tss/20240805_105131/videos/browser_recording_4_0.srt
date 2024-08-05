@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside beforeTest")
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://parabank.parasoft.com/parabank/index.htm")
+
+4
+00:00:00,000 --> 00:00:00,000
+9. verifyElementText(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/li_Solutions"), "Solutions")
+
+5
+00:00:00,000 --> 00:00:00,000
+13. verifyElementText(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_About Us"), "About Us")
+
+6
+00:00:00,000 --> 00:00:00,000
+17. verifyElementText(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_Services"), "Services")
+
+7
+00:00:00,000 --> 00:00:00,000
+21. verifyElementPresent(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/img_Solutions_logo"), 0)
+
+8
+00:00:00,000 --> 00:00:00,000
+25. verifyElementPresent(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_home"), 0)
+
+9
+00:00:00,000 --> 00:00:00,000
+29. click(findTestObject("Object Repository/Page_ParaBank  Welcome  Online Banking/a_home"))
+
+10
+00:00:00,000 --> 00:00:00,000
+33. closeBrowser()
+
+11
+00:00:00,000 --> 00:00:00,000
+1. println("I am inside afterTest")
+

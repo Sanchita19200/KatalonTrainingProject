@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Get started_lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>6627a69e-240c-4a4f-9d68-995c14c1069a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Hero image for Get paid to test page']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>picture > img.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Hero image for Get paid to test page&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>485d74f7-2f60-42b7-acc1-8b6876e4f5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>512</value>
+      <webElementGuid>f3f9c63f-73c8-44bc-9192-cd2a39d0d5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>725</value>
+      <webElementGuid>887799f9-d2e4-4052-85a4-7b1cc798a5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://usertesting.widen.net/content/cfnu4izcfr/webp/HERO-get-paid-to-test-725x512.png?w=725</value>
+      <webElementGuid>8b113152-5a99-42c7-be3c-8606f4fc5e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hero image for Get paid to test page</value>
+      <webElementGuid>49ea9f12-5069-4abe-8e7f-2abf5e24e7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> lazyloaded</value>
+      <webElementGuid>7516c10a-7cfa-4379-9c9d-e49d60c85361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://usertesting.widen.net/content/cfnu4izcfr/webp/HERO-get-paid-to-test-725x512.png?w=725</value>
+      <webElementGuid>9766544a-269a-451e-917a-b18930c96053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[@class=&quot;acquia-cms-toolbar acquia-cms-environment-prod path-node page-node-type-component-page&quot;]/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/div[2]/article[1]/div[1]/section[@class=&quot;section py-8 bg-white container-deafult overflow-x-clip&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex flex-col md:grid two-columns gap-4 md:gap-8 md:grid-cols-2 ut-component-global-spacing&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;ut-component-global-spacing w-full mx-auto flex justify-center&quot;]/article[@class=&quot;media media--type-acquia-dam-image-asset media--view-mode-default&quot;]/div[1]/picture[1]/img[@class=&quot;lazyloaded&quot;]</value>
+      <webElementGuid>81c9695f-aed1-4dbb-aeb5-096c1785a3a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hero image for Get paid to test page']</value>
+      <webElementGuid>9d12bc65-dbfe-4c75-ae2b-6cdbc4ec7e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+      <webElementGuid>f09f39ae-d6c9-4289-a5f2-4e923f297709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://usertesting.widen.net/content/cfnu4izcfr/webp/HERO-get-paid-to-test-725x512.png?w=725' and @alt = 'Hero image for Get paid to test page']</value>
+      <webElementGuid>dc4c45ac-fa52-4f18-a9c2-1685b0f93b71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Learn more_ls-is-cached lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>ea84a88e-cd98-4f7a-b4de-f0a675b947ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-tab-right-content-2']/article/div/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>picture > img.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Images for GPTT page, How it works Section, Vertical Tab Component&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d64a765e-589b-44d1-9f0b-14b4e11b6dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://usertesting.widen.net/content/kpc4qlk2lk/web/IMAGE-gptt-howitworks-01-618x400@2x.png?w=725</value>
+      <webElementGuid>01cf77f2-731b-481e-bac5-49139e2e6940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>725</value>
+      <webElementGuid>b2d841b2-dc34-4814-b65d-fd2c24d7dc7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>469</value>
+      <webElementGuid>2b52ceb0-599d-4075-9cec-7a163470b553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Images for GPTT page, How it works Section, Vertical Tab Component</value>
+      <webElementGuid>bcf1d5dc-b78c-485b-8bda-8bb067d732e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> ls-is-cached lazyloaded</value>
+      <webElementGuid>464939a6-ce2d-4729-911d-e2a8bb4f16dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://usertesting.widen.net/content/kpc4qlk2lk/web/IMAGE-gptt-howitworks-01-618x400@2x.png?w=725</value>
+      <webElementGuid>cfe9f8b7-37e9-412d-9781-be82c5d33208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-tab-right-content-2&quot;)/article[@class=&quot;media media--type-acquia-dam-image-asset media--view-mode-side&quot;]/div[1]/picture[1]/img[@class=&quot;ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>cd9cad37-bf5b-447b-992d-9c318e15cf71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-tab-right-content-2']/article/div/picture/img</value>
+      <webElementGuid>9ff84c29-0606-4458-ad3a-9e151e4ec9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Images for GPTT page, How it works Section, Vertical Tab Component']</value>
+      <webElementGuid>0d09edf5-f72a-4e35-ac28-9fb73c182c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/article/div/picture/img</value>
+      <webElementGuid>3ddf6c43-4e5e-4282-90b1-6392ec85d733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://usertesting.widen.net/content/kpc4qlk2lk/web/IMAGE-gptt-howitworks-01-618x400@2x.png?w=725' and @alt = 'Images for GPTT page, How it works Section, Vertical Tab Component']</value>
+      <webElementGuid>387523f6-598d-443f-b21b-66c114107d72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
